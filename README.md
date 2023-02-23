@@ -1,6 +1,7 @@
 # aakaassshh.github.io
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate developer from Pune,India</h3>
+<h3 align="center">A Passionate Developer From Pune,India</h3>
+<img align="right" alt="Coding" width="9000" src="https://images8.alphacoders.com/115/thumb-1920-1156488.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakaassshh&label=Profile%20views&color=0e75b6&style=flat" alt="aakaassshh" /> </p>
 
