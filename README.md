@@ -1,11 +1,15 @@
 # aakaassshh.github.io
+<head>
+ <Akash>
+  </head>
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A Passionate Developer From Pune,India</h3>
-<img align="right" alt="Coding" width="9000" src="C:\Users\khand\OneDrive\Pictures\banner.png">
+
+<img align="center" alt="Coding" width="600" length='800' src="https://images.unsplash.com/photo-1562813733-b31f71025d54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakaassshh&label=Profile%20views&color=0e75b6&style=flat" alt="aakaassshh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakaassshh" alt="aakaassshh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
